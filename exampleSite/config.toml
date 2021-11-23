@@ -29,8 +29,8 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Work"
+    url = "/work/"
     weight = 2
 
 [[menu.main]]
